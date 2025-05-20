@@ -1,0 +1,13 @@
+2025-05-19 16:11:02.166 [info] update#setState idle
+2025-05-19 16:11:32.167 [info] update#setState checking for updates
+2025-05-19 16:11:32.204 [info] update#setState idle
+2025-05-19 16:19:03.162 [info] Extension host with pid 253009 exited with code: 0, signal: unknown.
+2025-05-19 16:19:03.174 [error] [UtilityProcess id: 1, type: fileWatcher, pid: 252538]: crashed with code 15 and reason 'killed'
+2025-05-19 16:20:44.939 [info] Extension host with pid 254387 exited with code: 0, signal: unknown.
+2025-05-19 16:23:44.489 [error] CodeWindow: failed to load (reason: <unknown>, code: -3)
+2025-05-19 17:11:32.170 [info] update#setState checking for updates
+2025-05-19 17:11:32.507 [info] update#setState idle
+2025-05-19 18:34:07.592 [info] update#setState checking for updates
+2025-05-19 18:34:07.802 [info] update#setState idle
+2025-05-19 19:34:07.593 [info] update#setState checking for updates
+2025-05-19 19:34:07.980 [info] update#setState idle

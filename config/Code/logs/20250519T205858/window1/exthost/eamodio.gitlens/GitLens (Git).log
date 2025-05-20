@@ -1,0 +1,5 @@
+2025-05-19 20:59:00.659 [info] [2025-05-19 18:59:00.570] [         74ms] [/home/daniel/Web dev/LIfestyle hotel] git rev-parse --show-toplevel • FAILED
+2025-05-19 20:59:00.659 [info] 
+Error: fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+

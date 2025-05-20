@@ -1,0 +1,16 @@
+2025-05-19 20:58:58.853 [info] Started local extension host with pid 5254.
+2025-05-19 20:58:59.020 [info] ComputeTargetPlatform: linux-x64
+2025-05-19 20:58:59.058 [warning] [ms-azuretools.vscode-docker]: Cannot register 'docker.languageserver.diagnostics.deprecatedMaintainer'. This property is already registered.
+2025-05-19 20:58:59.059 [warning] [ms-azuretools.vscode-docker]: Cannot register 'docker.languageserver.diagnostics.emptyContinuationLine'. This property is already registered.
+2025-05-19 20:58:59.059 [warning] [ms-azuretools.vscode-docker]: Cannot register 'docker.languageserver.diagnostics.directiveCasing'. This property is already registered.
+2025-05-19 20:58:59.059 [warning] [ms-azuretools.vscode-docker]: Cannot register 'docker.languageserver.diagnostics.instructionCasing'. This property is already registered.
+2025-05-19 20:58:59.059 [warning] [ms-azuretools.vscode-docker]: Cannot register 'docker.languageserver.diagnostics.instructionCmdMultiple'. This property is already registered.
+2025-05-19 20:58:59.059 [warning] [ms-azuretools.vscode-docker]: Cannot register 'docker.languageserver.diagnostics.instructionEntrypointMultiple'. This property is already registered.
+2025-05-19 20:58:59.059 [warning] [ms-azuretools.vscode-docker]: Cannot register 'docker.languageserver.diagnostics.instructionHealthcheckMultiple'. This property is already registered.
+2025-05-19 20:58:59.059 [warning] [ms-azuretools.vscode-docker]: Cannot register 'docker.languageserver.diagnostics.instructionJSONInSingleQuotes'. This property is already registered.
+2025-05-19 20:58:59.059 [warning] [ms-azuretools.vscode-docker]: Cannot register 'docker.languageserver.diagnostics.instructionWorkdirRelative'. This property is already registered.
+2025-05-19 20:58:59.060 [warning] [ms-azuretools.vscode-docker]: Cannot register 'docker.languageserver.formatter.ignoreMultilineInstructions'. This property is already registered.
+2025-05-19 20:58:59.246 [warning] No search provider registered for scheme: file, waiting
+2025-05-19 20:58:59.593 [info] Settings Sync: Token updated for the account Dantegro
+2025-05-19 20:58:59.611 [info] Settings Sync: Account status changed from uninitialized to available
+2025-05-19 20:59:01.483 [info] [perf] Render performance baseline is 13ms

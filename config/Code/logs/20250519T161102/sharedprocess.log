@@ -1,0 +1,81 @@
+2025-05-19 16:11:03.147 [info] ComputeTargetPlatform: linux-x64
+2025-05-19 16:11:18.884 [info] ComputeTargetPlatform: linux-x64
+2025-05-19 16:11:18.884 [info] Getting Manifest... github.copilot
+2025-05-19 16:11:18.937 [info] Installing extension: github.copilot {"enable":true,"isApplicationScoped":true,"isMachineScoped":false,"installEverywhere":true,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/daniel/.vscode/extensions/extensions.json","path":"/home/daniel/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"productVersion":{"version":"1.100.2","date":"2025-05-14T21:47:40.416Z"}}
+2025-05-19 16:11:19.625 [info] Getting Manifest... github.copilot-chat
+2025-05-19 16:11:19.654 [info] Installing extension: github.copilot-chat {"enable":true,"isApplicationScoped":true,"isMachineScoped":false,"installEverywhere":true,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/daniel/.vscode/extensions/extensions.json","path":"/home/daniel/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"productVersion":{"version":"1.100.2","date":"2025-05-14T21:47:40.416Z"},"installGivenVersion":false,"context":{"dependecyOrPackExtensionInstall":true}}
+2025-05-19 16:11:21.407 [info] Extension signature verification result for github.copilot-chat: Success. Internal Code: 0. Executed: true. Duration: 843ms.
+2025-05-19 16:11:21.550 [info] Extracted extension to file:///home/daniel/.vscode/extensions/github.copilot-chat-0.27.1: github.copilot-chat
+2025-05-19 16:11:21.560 [info] Renamed to /home/daniel/.vscode/extensions/github.copilot-chat-0.27.1
+2025-05-19 16:11:23.926 [info] Extension signature verification result for github.copilot: Success. Internal Code: 0. Executed: true. Duration: 830ms.
+2025-05-19 16:11:24.190 [info] Extracted extension to file:///home/daniel/.vscode/extensions/github.copilot-1.322.0: github.copilot
+2025-05-19 16:11:24.198 [info] Renamed to /home/daniel/.vscode/extensions/github.copilot-1.322.0
+2025-05-19 16:11:24.210 [info] Extension installed successfully: github.copilot-chat vscode-userdata:/home/daniel/.vscode/extensions/extensions.json
+2025-05-19 16:11:24.210 [info] Extension installed successfully: github.copilot vscode-userdata:/home/daniel/.vscode/extensions/extensions.json
+2025-05-19 16:12:15.366 [info] Getting Manifest... ecmel.vscode-html-css
+2025-05-19 16:12:15.490 [info] Installing extension: ecmel.vscode-html-css {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/daniel/.vscode/extensions/extensions.json","path":"/home/daniel/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.100.2","date":"2025-05-14T21:47:40.416Z"}}
+2025-05-19 16:12:16.296 [info] Extension signature verification result for ecmel.vscode-html-css: Success. Internal Code: 0. Executed: true. Duration: 417ms.
+2025-05-19 16:12:16.303 [info] Extracted extension to file:///home/daniel/.vscode/extensions/ecmel.vscode-html-css-2.0.13: ecmel.vscode-html-css
+2025-05-19 16:12:16.309 [info] Renamed to /home/daniel/.vscode/extensions/ecmel.vscode-html-css-2.0.13
+2025-05-19 16:12:16.319 [info] Extension installed successfully: ecmel.vscode-html-css vscode-userdata:/home/daniel/.vscode/extensions/extensions.json
+2025-05-19 16:14:47.218 [info] Getting Manifest... yoavbls.pretty-ts-errors
+2025-05-19 16:14:47.351 [info] Installing extension: yoavbls.pretty-ts-errors {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/daniel/.vscode/extensions/extensions.json","path":"/home/daniel/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.100.2","date":"2025-05-14T21:47:40.416Z"}}
+2025-05-19 16:14:48.323 [info] Extension signature verification result for yoavbls.pretty-ts-errors: Success. Internal Code: 0. Executed: true. Duration: 428ms.
+2025-05-19 16:14:48.344 [info] Extracted extension to file:///home/daniel/.vscode/extensions/yoavbls.pretty-ts-errors-0.6.1: yoavbls.pretty-ts-errors
+2025-05-19 16:14:48.350 [info] Renamed to /home/daniel/.vscode/extensions/yoavbls.pretty-ts-errors-0.6.1
+2025-05-19 16:14:48.359 [info] Extension installed successfully: yoavbls.pretty-ts-errors vscode-userdata:/home/daniel/.vscode/extensions/extensions.json
+2025-05-19 16:16:17.750 [info] Getting Manifest... dbaeumer.vscode-eslint
+2025-05-19 16:16:17.818 [info] Installing extension: dbaeumer.vscode-eslint {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/daniel/.vscode/extensions/extensions.json","path":"/home/daniel/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.100.2","date":"2025-05-14T21:47:40.416Z"}}
+2025-05-19 16:16:18.550 [info] Extension signature verification result for dbaeumer.vscode-eslint: Success. Internal Code: 0. Executed: true. Duration: 425ms.
+2025-05-19 16:16:18.566 [info] Extracted extension to file:///home/daniel/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10: dbaeumer.vscode-eslint
+2025-05-19 16:16:18.569 [info] Renamed to /home/daniel/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10
+2025-05-19 16:16:18.579 [info] Extension installed successfully: dbaeumer.vscode-eslint vscode-userdata:/home/daniel/.vscode/extensions/extensions.json
+2025-05-19 16:17:05.687 [info] Getting Manifest... bradlc.vscode-tailwindcss
+2025-05-19 16:17:05.732 [info] Installing extension: bradlc.vscode-tailwindcss {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/daniel/.vscode/extensions/extensions.json","path":"/home/daniel/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.100.2","date":"2025-05-14T21:47:40.416Z"}}
+2025-05-19 16:17:06.615 [info] Extension signature verification result for bradlc.vscode-tailwindcss: Success. Internal Code: 0. Executed: true. Duration: 413ms.
+2025-05-19 16:17:06.653 [info] Extracted extension to file:///home/daniel/.vscode/extensions/bradlc.vscode-tailwindcss-0.14.17: bradlc.vscode-tailwindcss
+2025-05-19 16:17:06.658 [info] Renamed to /home/daniel/.vscode/extensions/bradlc.vscode-tailwindcss-0.14.17
+2025-05-19 16:17:06.669 [info] Extension installed successfully: bradlc.vscode-tailwindcss vscode-userdata:/home/daniel/.vscode/extensions/extensions.json
+2025-05-19 16:17:59.593 [info] Getting Manifest... prisma.prisma
+2025-05-19 16:17:59.774 [info] Installing extension: prisma.prisma {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/daniel/.vscode/extensions/extensions.json","path":"/home/daniel/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.100.2","date":"2025-05-14T21:47:40.416Z"}}
+2025-05-19 16:18:01.176 [info] Extension signature verification result for prisma.prisma: Success. Internal Code: 0. Executed: true. Duration: 436ms.
+2025-05-19 16:18:01.608 [info] Extracted extension to file:///home/daniel/.vscode/extensions/prisma.prisma-6.8.2: prisma.prisma
+2025-05-19 16:18:01.637 [info] Renamed to /home/daniel/.vscode/extensions/prisma.prisma-6.8.2
+2025-05-19 16:18:01.649 [info] Extension installed successfully: prisma.prisma vscode-userdata:/home/daniel/.vscode/extensions/extensions.json
+2025-05-19 16:18:12.664 [info] Getting Manifest... ckolkman.vscode-postgres
+2025-05-19 16:18:13.043 [info] Installing extension: ckolkman.vscode-postgres {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/daniel/.vscode/extensions/extensions.json","path":"/home/daniel/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.100.2","date":"2025-05-14T21:47:40.416Z"}}
+2025-05-19 16:18:16.399 [info] Extension signature verification result for ckolkman.vscode-postgres: Success. Internal Code: 0. Executed: true. Duration: 438ms.
+2025-05-19 16:18:16.610 [info] Extracted extension to file:///home/daniel/.vscode/extensions/ckolkman.vscode-postgres-1.4.3: ckolkman.vscode-postgres
+2025-05-19 16:18:16.625 [info] Renamed to /home/daniel/.vscode/extensions/ckolkman.vscode-postgres-1.4.3
+2025-05-19 16:18:16.635 [info] Extension installed successfully: ckolkman.vscode-postgres vscode-userdata:/home/daniel/.vscode/extensions/extensions.json
+2025-05-19 16:18:31.947 [info] Getting Manifest... eamodio.gitlens
+2025-05-19 16:18:32.011 [info] Installing extension: eamodio.gitlens {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/daniel/.vscode/extensions/extensions.json","path":"/home/daniel/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.100.2","date":"2025-05-14T21:47:40.416Z"}}
+2025-05-19 16:18:33.710 [info] Extension signature verification result for eamodio.gitlens: Success. Internal Code: 0. Executed: true. Duration: 432ms.
+2025-05-19 16:18:33.874 [info] Extracted extension to file:///home/daniel/.vscode/extensions/eamodio.gitlens-17.1.0: eamodio.gitlens
+2025-05-19 16:18:33.896 [info] Renamed to /home/daniel/.vscode/extensions/eamodio.gitlens-17.1.0
+2025-05-19 16:18:33.922 [info] Extension installed successfully: eamodio.gitlens vscode-userdata:/home/daniel/.vscode/extensions/extensions.json
+2025-05-19 16:20:34.689 [info] Getting Manifest... ms-azuretools.vscode-docker
+2025-05-19 16:20:34.739 [info] Installing extension: ms-azuretools.vscode-docker {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/daniel/.vscode/extensions/extensions.json","path":"/home/daniel/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.100.2","date":"2025-05-14T21:47:40.416Z"}}
+2025-05-19 16:20:35.780 [info] Extension signature verification result for ms-azuretools.vscode-docker: Success. Internal Code: 0. Executed: true. Duration: 432ms.
+2025-05-19 16:20:35.815 [info] Extracted extension to file:///home/daniel/.vscode/extensions/ms-azuretools.vscode-docker-1.29.6: ms-azuretools.vscode-docker
+2025-05-19 16:20:35.819 [info] Renamed to /home/daniel/.vscode/extensions/ms-azuretools.vscode-docker-1.29.6
+2025-05-19 16:20:35.835 [info] Extension installed successfully: ms-azuretools.vscode-docker vscode-userdata:/home/daniel/.vscode/extensions/extensions.json
+2025-05-19 16:20:43.371 [info] Getting Manifest... ms-azuretools.vscode-containers
+2025-05-19 16:20:43.386 [info] Installing extension: ms-azuretools.vscode-containers {"context":{"extensionInstallSource":"command"},"isMachineScoped":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/daniel/.vscode/extensions/extensions.json","path":"/home/daniel/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.100.2","date":"2025-05-14T21:47:40.416Z"}}
+2025-05-19 16:20:44.451 [info] Extension signature verification result for ms-azuretools.vscode-containers: Success. Internal Code: 0. Executed: true. Duration: 417ms.
+2025-05-19 16:20:44.509 [info] Extracted extension to file:///home/daniel/.vscode/extensions/ms-azuretools.vscode-containers-2.0.1: ms-azuretools.vscode-containers
+2025-05-19 16:20:44.518 [info] Renamed to /home/daniel/.vscode/extensions/ms-azuretools.vscode-containers-2.0.1
+2025-05-19 16:20:44.534 [info] Extension installed successfully: ms-azuretools.vscode-containers vscode-userdata:/home/daniel/.vscode/extensions/extensions.json
+2025-05-19 16:20:44.720 [info] Uninstalling extension from the profile: ms-azuretools.vscode-docker@1.29.6 vscode-userdata:/home/daniel/.vscode/extensions/extensions.json
+2025-05-19 16:20:44.742 [info] Marked extension as removed ms-azuretools.vscode-docker-1.29.6
+2025-05-19 16:20:44.893 [info] Successfully uninstalled extension from the profile ms-azuretools.vscode-docker@1.29.6 vscode-userdata:/home/daniel/.vscode/extensions/extensions.json
+2025-05-19 16:21:10.546 [info] Getting Manifest... humao.rest-client
+2025-05-19 16:21:10.616 [info] Installing extension: humao.rest-client {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/daniel/.vscode/extensions/extensions.json","path":"/home/daniel/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.100.2","date":"2025-05-14T21:47:40.416Z"}}
+2025-05-19 16:21:11.458 [info] Extension signature verification result for humao.rest-client: Success. Internal Code: 0. Executed: true. Duration: 424ms.
+2025-05-19 16:21:11.486 [info] Extracted extension to file:///home/daniel/.vscode/extensions/humao.rest-client-0.25.1: humao.rest-client
+2025-05-19 16:21:11.492 [info] Renamed to /home/daniel/.vscode/extensions/humao.rest-client-0.25.1
+2025-05-19 16:21:11.508 [info] Extension installed successfully: humao.rest-client vscode-userdata:/home/daniel/.vscode/extensions/extensions.json
+2025-05-19 16:27:30.740 [info] Getting Manifest... ms-azuretools.vscode-docker
+2025-05-19 16:27:30.920 [info] Installing extension: ms-azuretools.vscode-docker {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/daniel/.vscode/extensions/extensions.json","path":"/home/daniel/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.100.2","date":"2025-05-14T21:47:40.416Z"}}
+2025-05-19 16:27:31.125 [info] Removed the extension from removed list: ms-azuretools.vscode-docker
+2025-05-19 16:27:31.183 [info] Extension installed successfully: ms-azuretools.vscode-docker vscode-userdata:/home/daniel/.vscode/extensions/extensions.json

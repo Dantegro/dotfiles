@@ -1,0 +1,81 @@
+2025-05-19 16:11:24.929 [info] Using the Electron fetcher.
+2025-05-19 16:11:24.929 [info] Initializing Git extension service.
+2025-05-19 16:11:24.929 [info] Successfully activated the vscode.git extension.
+2025-05-19 16:11:24.929 [info] Enablement state of the vscode.git extension: true.
+2025-05-19 16:11:24.929 [info] Successfully registered Git commit message provider.
+2025-05-19 16:11:25.186 [info] Logged in as Dantegro
+2025-05-19 16:11:26.056 [info] Got Copilot token for Dantegro
+2025-05-19 16:11:26.095 [info] copilot token chat_enabled: true, sku: free_educational
+2025-05-19 16:11:26.095 [info] GitHub.vscode-pull-request-github extension is not yet activated.
+2025-05-19 16:11:26.105 [info] Registering default platform agent...
+2025-05-19 16:11:26.135 [info] BYOK: Copilot Chat known models list fetched successfully.
+2025-05-19 16:11:26.441 [info] Fetched model metadata in 377ms 633114f6-dd70-4f23-bed6-e395218188a9
+2025-05-19 16:11:26.548 [info] activationBlocker from 'languageModelAccess' took for 1320ms
+2025-05-19 16:11:41.732 [info] message 0 returned. finish reason: [stop]
+2025-05-19 16:11:41.732 [info] request done: requestId: [81137f40-d4a5-4eb8-b64c-b3accd9e3940] model deployment ID: []
+2025-05-19 16:11:42.413 [info] message 0 returned. finish reason: [stop]
+2025-05-19 16:11:42.413 [info] request done: requestId: [81eaab8d-171c-4326-8db7-36b52336ade3] model deployment ID: []
+2025-05-19 16:11:42.782 [info] message 0 returned. finish reason: [stop]
+2025-05-19 16:11:42.782 [info] request done: requestId: [493cff2d-a839-4b55-a1bc-01e73921fe32] model deployment ID: []
+2025-05-19 16:11:47.733 [info] message 0 returned. finish reason: [stop]
+2025-05-19 16:11:47.733 [info] request done: requestId: [fc4aa04c-57f0-40a9-b390-a1d800d10f14] model deployment ID: []
+2025-05-19 16:11:49.180 [info] message 0 returned. finish reason: [stop]
+2025-05-19 16:11:49.180 [info] request done: requestId: [8c4d0f3a-13cc-4342-bc31-47e2c3eae1c7] model deployment ID: []
+2025-05-19 16:17:34.242 [info] message 0 returned. finish reason: [stop]
+2025-05-19 16:17:34.242 [info] request done: requestId: [996e0d5e-c88a-43db-93cf-ffecd67c3815] model deployment ID: []
+2025-05-19 16:17:38.106 [info] message 0 returned. finish reason: [stop]
+2025-05-19 16:17:38.106 [info] request done: requestId: [acfb86e3-d46b-4933-8561-7aa2a13eb538] model deployment ID: []
+2025-05-19 16:19:06.966 [info] Using the Electron fetcher.
+2025-05-19 16:19:06.967 [info] Initializing Git extension service.
+2025-05-19 16:19:06.967 [info] Successfully activated the vscode.git extension.
+2025-05-19 16:19:06.967 [info] Enablement state of the vscode.git extension: true.
+2025-05-19 16:19:06.967 [info] Successfully registered Git commit message provider.
+2025-05-19 16:19:07.279 [info] Logged in as Dantegro
+2025-05-19 16:19:08.111 [info] Got Copilot token for Dantegro
+2025-05-19 16:19:08.165 [info] copilot token chat_enabled: true, sku: free_educational
+2025-05-19 16:19:08.165 [info] GitHub.vscode-pull-request-github extension is not yet activated.
+2025-05-19 16:19:08.169 [info] Registering default platform agent...
+2025-05-19 16:19:08.278 [info] Fetched model metadata in 160ms e52eb73e-7c87-40a9-aaac-6e08a33228bb
+2025-05-19 16:19:08.285 [info] activationBlocker from 'languageModelAccess' took for 903ms
+2025-05-19 16:19:08.348 [info] BYOK: Copilot Chat known models list fetched successfully.
+2025-05-19 16:20:46.951 [info] Using the Electron fetcher.
+2025-05-19 16:20:46.951 [info] Initializing Git extension service.
+2025-05-19 16:20:46.951 [info] Successfully activated the vscode.git extension.
+2025-05-19 16:20:46.951 [info] Enablement state of the vscode.git extension: true.
+2025-05-19 16:20:46.951 [info] Successfully registered Git commit message provider.
+2025-05-19 16:20:47.221 [info] Logged in as Dantegro
+2025-05-19 16:20:48.229 [info] Got Copilot token for Dantegro
+2025-05-19 16:20:48.318 [info] copilot token chat_enabled: true, sku: free_educational
+2025-05-19 16:20:48.318 [info] GitHub.vscode-pull-request-github extension is not yet activated.
+2025-05-19 16:20:48.321 [info] Registering default platform agent...
+2025-05-19 16:20:48.478 [info] Fetched model metadata in 243ms 4d4a06b9-8548-421f-8490-a28af1b9fffd
+2025-05-19 16:20:48.481 [info] activationBlocker from 'languageModelAccess' took for 1182ms
+2025-05-19 16:20:48.568 [info] BYOK: Copilot Chat known models list fetched successfully.
+2025-05-19 16:50:48.802 [info] Logged in as Dantegro
+2025-05-19 16:50:49.622 [info] Got Copilot token for Dantegro
+2025-05-19 16:50:49.629 [info] copilot token chat_enabled: true, sku: free_educational
+2025-05-19 16:50:49.758 [info] BYOK: Copilot Chat known models list fetched successfully.
+2025-05-19 17:20:49.646 [info] Logged in as Dantegro
+2025-05-19 17:20:50.535 [info] Got Copilot token for Dantegro
+2025-05-19 17:20:50.543 [info] copilot token chat_enabled: true, sku: free_educational
+2025-05-19 17:20:50.664 [info] BYOK: Copilot Chat known models list fetched successfully.
+2025-05-19 17:58:25.969 [info] Logged in as Dantegro
+2025-05-19 17:58:27.597 [info] Got Copilot token for Dantegro
+2025-05-19 17:58:27.603 [info] copilot token chat_enabled: true, sku: free_educational
+2025-05-19 17:58:27.618 [info] BYOK: Copilot Chat known models list fetched successfully.
+2025-05-19 18:28:27.617 [info] Logged in as Dantegro
+2025-05-19 18:28:28.538 [info] Got Copilot token for Dantegro
+2025-05-19 18:28:28.544 [info] copilot token chat_enabled: true, sku: free_educational
+2025-05-19 18:28:28.799 [info] BYOK: Copilot Chat known models list fetched successfully.
+2025-05-19 18:58:28.562 [info] Logged in as Dantegro
+2025-05-19 18:58:29.396 [info] Got Copilot token for Dantegro
+2025-05-19 18:58:29.403 [info] copilot token chat_enabled: true, sku: free_educational
+2025-05-19 18:58:29.724 [info] BYOK: Copilot Chat known models list fetched successfully.
+2025-05-19 19:28:29.422 [info] Logged in as Dantegro
+2025-05-19 19:28:30.178 [info] Got Copilot token for Dantegro
+2025-05-19 19:28:30.184 [info] copilot token chat_enabled: true, sku: free_educational
+2025-05-19 19:28:30.314 [info] BYOK: Copilot Chat known models list fetched successfully.
+2025-05-19 20:44:55.043 [info] Logged in as Dantegro
+2025-05-19 20:44:55.967 [info] Got Copilot token for Dantegro
+2025-05-19 20:44:55.974 [info] copilot token chat_enabled: true, sku: free_educational
+2025-05-19 20:44:56.180 [info] BYOK: Copilot Chat known models list fetched successfully.
